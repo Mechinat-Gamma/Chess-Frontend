@@ -6,7 +6,7 @@
 <slot />
 
 <style>
-    :global(body) {
+    :global(*) {
         margin: 0;
         padding: 0;
     }
