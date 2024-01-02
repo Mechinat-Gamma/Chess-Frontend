@@ -1,14 +1,19 @@
+<script>
+    import Board from "$lib/Board.svelte";
+</script>
+
 <div class="hero-flex">
     <div class="title-flex">
         <p class="title">Find Your Next Game.</p>
     </div>
-    <img class="chess-board-demo" src="/Images/ChessboardBlurred.svg" alt="Blurred Chess Board" />
+    <Board />
 </div>
 
 <style>
     .hero-flex {
         display: flex;
         justify-content: space-between;
+        align-items: center;
         padding: 50px 120px;
     }
 
@@ -24,12 +29,6 @@
         font-weight: 700;
         line-height: 100%;
         word-spacing: 9999px;
-        margin: 0;
         margin-top: 50px;
-    }
-
-    .chess-board-demo {
-        width: 554.592px;
-        height: 560.847px;
     }
 </style>
