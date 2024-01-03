@@ -2,90 +2,90 @@
 
 <div class="chess-board">
     <div class="row">
+        <div><img class="pawn" src="/Images/Pawns/BlackTower.svg" alt="Black Tower" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackHorse.svg" alt="Black Horse" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackRook.svg" alt="Black Rook" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackQueen.svg" alt="Black Queen" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackKing.svg" alt="Black King" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackRook.svg" alt="Black Rook" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackHorse.svg" alt="Black Horse" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackTower.svg" alt="Black Tower" /></div>
+    </div>
+    <div class="row">
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/BlackPawn.svg" alt="Black Pawn" /></div>
+    </div>
+    <div class="row">
         <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="row">
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhitePawn.svg" alt="White Pawn" /></div>
+    </div>
+    <div class="row">
+        <div><img class="pawn" src="/Images/Pawns/WhiteTower.svg" alt="White Tower" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhiteHorse.svg" alt="White Horse" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhiteRook.svg" alt="White Rook" /></div>
         <div><img class="pawn" src="/Images/Pawns/WhiteQueen.svg" alt="White Queen" /></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    <div class="row">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
+        <div><img class="pawn" src="/Images/Pawns/WhiteKing.svg" alt="White King" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhiteRook.svg" alt="White Rook" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhiteHorse.svg" alt="White Horse" /></div>
+        <div><img class="pawn" src="/Images/Pawns/WhiteTower.svg" alt="White Tower" /></div>
     </div>
 </div>
 
 <style>
     .chess-board {
-        --square-width: 3.8rem;
+        --square-width: 3.6rem;
         position: relative;
         display: flex;
         flex-direction: column;
