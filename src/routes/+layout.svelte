@@ -16,6 +16,7 @@
         font-feature-settings: 'liga' 1, 'calt' 1; /* Chrome-specific bug; Inter font */
         background-color: #2B292E;
         color: white;
+        user-select: none;
     }
 
     @supports (font-variation-settings: normal) {
