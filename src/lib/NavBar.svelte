@@ -1,7 +1,7 @@
 <!-- Navigation Bar Component -->
 
 <div class="navbar">
-    <img src="/Images/ChessIcon.svg" class="navbar-icon" alt="Chess Logo" />
+    <img src="/Images/ChessIcon.svg" class="navbar-icon" alt="Chess Logo" draggable="false" />
     <span class="navbar-title">Chess</span>
     <span class="navbar-item">Home</span>
     <span class="navbar-item">Play</span>
