@@ -1,9 +1,5 @@
 <!-- Navigation Bar Component -->
 
-<script>
-    import RatingTag from "./RatingTag.svelte";
-</script>
-
 <div class="navbar">
     <img src="/Images/ChessIcon.svg" class="navbar-icon" alt="Chess Logo" />
     <span class="navbar-title">Chess</span>

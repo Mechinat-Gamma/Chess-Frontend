@@ -90,7 +90,8 @@
         display: flex;
         flex-direction: column;
         background-color: white;
-        border: .5rem solid white;
+        outline: .5rem solid white;
+        border: 1px solid #B3B2B4;
         border-radius: .5rem;
     }
 
