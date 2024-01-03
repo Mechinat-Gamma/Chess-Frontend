@@ -15,7 +15,9 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 35px 120px;
+        padding-top: 35px;
+        padding-right: 120px;
+        padding-left: 120px;
     }
 
     .title-flex {
