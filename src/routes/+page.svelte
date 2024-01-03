@@ -23,7 +23,7 @@
     .title-flex {
         display: flex;
         flex-direction: column;
-        gap: 65px;
+        gap: 32px;
         align-items: baseline;
     }
 
@@ -32,7 +32,7 @@
         font-weight: 700;
         line-height: 100%;
         word-spacing: 9999px;
-        margin-top: 50px;
+        margin-top: 40px;
     }
 
     .play-button {
