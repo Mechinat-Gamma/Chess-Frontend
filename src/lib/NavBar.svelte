@@ -25,31 +25,31 @@
     }
 
     .navbar > * {
-        padding-top: 12px;
-        padding-bottom: 12.75px;
+        padding-top: .67rem;
+        padding-bottom: .7rem;
     }
 
     .navbar-title {
-        font-size: 26.849px;
+        font-size: 1.5rem;
         font-weight: 500;
-        padding-right: 42.71px;
+        padding-right: 2.4rem;
     }
 
     .navbar-item {
-        padding-right: 29.62px;
-        padding-top: 18px;
+        padding-right: 1.7rem;
+        padding-top: 1rem;
     }
 
     .navbar-icon {
-        width: 27.468px;
-        height: 27.799px;
-        padding-right: 11.45px;
-        padding-left: 25.02px;
+        width: 1.5rem;
+        height: 1.5rem;
+        padding-right: .64rem;
+        padding-left: 1.4rem;
     }
 
     .profile {
         margin-left: auto;
-        padding-right: 30px;
+        padding-right: 1.7rem;
         padding-top: 0;
         padding-bottom: 0;
     }
@@ -58,35 +58,35 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        padding-top: 13px;
-        gap: 6px;
+        padding-top: .7rem;
+        gap: .3rem;
     }
 
     .pic {
-        height: 32px;
-        width: 32px;
+        height: 1.8rem;
+        width: 1.8rem;
         background-color: #BFBFBF;
         border-radius: 50%;
     }
 
     .dropdown {
-        width: 12px;
+        width: .7rem;
     }
 
     .username {
-        font-size: 16px;
-        padding-left: 2px;
+        font-size: .9rem;
+        padding-left: .1rem;
     }
 
     .rating {
         background-color: #37548B;
-        padding-right: 6px;
-        padding-left: 6px;
+        padding-right: .3rem;
+        padding-left: .3rem;
         padding-top: 1px;
         padding-bottom: 1px;
-        border-radius: 9.307px;
-        margin-right: 10px;
-        font-size: 14px;
+        border-radius: .5rem;
+        margin-right: .55rem;
+        font-size: .8rem;
         font-weight: 350;
     }
 </style>

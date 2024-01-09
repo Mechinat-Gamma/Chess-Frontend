@@ -17,7 +17,7 @@
         background-color: #2B292E;
         color: white;
         user-select: none;
-        font-size: 18.018px;
+        font-size: 18px;
         font-weight: 400;
     }
 
