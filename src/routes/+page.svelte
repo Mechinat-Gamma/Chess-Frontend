@@ -16,8 +16,8 @@
         justify-content: space-between;
         align-items: center;
         padding-top: 1.95rem;
-        padding-right: 6.7rem;
-        padding-left: 6.7rem;
+        padding-right: calc(100vw / 11);
+        padding-left: calc(100vw / 11);
     }
 
     .title-flex {
@@ -28,7 +28,7 @@
     }
 
     .title {
-        font-size: 5.85rem;
+        font-size: calc(100vh / 6.5);
         font-weight: 700;
         line-height: 100%;
         word-spacing: 100rem;
