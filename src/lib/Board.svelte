@@ -85,12 +85,12 @@
 
 <style>
     .chess-board {
-        --square-width: 3.6rem;
+        --square-width: 9vh;
         position: relative;
         display: flex;
         flex-direction: column;
         background-color: white;
-        outline: .5rem solid white;
+        outline: calc(var(--square-width) / 7) solid white;
         border: 1px solid #B3B2B4;
         border-radius: .5rem;
     }
@@ -103,7 +103,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        width: calc(var(--square-width));
+        width: var(--square-width);
         padding: 2px;
         aspect-ratio: 1/1;
     }
